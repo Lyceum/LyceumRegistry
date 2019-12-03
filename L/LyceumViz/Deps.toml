@@ -1,0 +1,11 @@
+[0]
+BangBang = "198e06fe-97b7-11e9-32a5-e1d131e6ad66"
+FFMPEG = "c87230d0-a227-11e9-1b43-d7ebe4e7570a"
+GLFW = "f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98"
+LyceumBase = "db31fed1-ca1e-4084-8a49-12fae1996a55"
+LyceumMuJoCo = "48b9757e-04b8-4dbf-b6ed-75c13d9e4026"
+MuJoCo = "93189219-7048-461c-94ec-443a161ed927"
+Observables = "510215fc-4207-5dde-b226-833fc4488ee2"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Shapes = "175de200-b73b-11e9-28b7-9b5b306cec37"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
