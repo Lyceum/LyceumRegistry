@@ -12,3 +12,4 @@ repo = "https://github.com/Lyceum/LyceumRegistry.git"
 a1178c53-d320-4ec4-b60e-765dae4c6b59 = { name = "LyceumViz", path = "L/LyceumViz" }
 c0099f9a-b73b-11e9-1fa7-371fe55f427b = { name = "DevTools", path = "D/DevTools" }
 db31fed1-ca1e-4084-8a49-12fae1996a55 = { name = "LyceumBase", path = "L/LyceumBase" }
+f25b5985-59c0-418b-a573-42c079f3f644 = { name = "Lyceum", path = "L/Lyceum" }
