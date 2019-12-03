@@ -3,5 +3,6 @@ uuid = "96ca1a0e-015d-46b7-a12d-07d1320642ca"
 repo = "https://github.com/Lyceum/LyceumRegistry.git"
 
 [packages]
+175de200-b73b-11e9-28b7-9b5b306cec37 = { name = "Shapes", path = "S/Shapes" }
 32af7c3b-80ec-5621-8194-2f6cb2280831 = { name = "MuJoCo_jll", path = "M/MuJoCo_jll" }
 93189219-7048-461c-94ec-443a161ed927 = { name = "MuJoCo", path = "M/MuJoCo" }
