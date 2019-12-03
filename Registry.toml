@@ -3,3 +3,4 @@ uuid = "96ca1a0e-015d-46b7-a12d-07d1320642ca"
 repo = "https://github.com/Lyceum/LyceumRegistry.git"
 
 [packages]
+32af7c3b-80ec-5621-8194-2f6cb2280831 = { name = "MuJoCo_jll", path = "M/MuJoCo_jll" }
