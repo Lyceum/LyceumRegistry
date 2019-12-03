@@ -4,3 +4,4 @@ repo = "https://github.com/Lyceum/LyceumRegistry.git"
 
 [packages]
 32af7c3b-80ec-5621-8194-2f6cb2280831 = { name = "MuJoCo_jll", path = "M/MuJoCo_jll" }
+93189219-7048-461c-94ec-443a161ed927 = { name = "MuJoCo", path = "M/MuJoCo" }
