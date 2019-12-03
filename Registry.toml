@@ -1,0 +1,5 @@
+name = "LyceumRegistry"
+uuid = "96ca1a0e-015d-46b7-a12d-07d1320642ca"
+repo = "https://github.com/Lyceum/LyceumRegistry.git"
+
+[packages]

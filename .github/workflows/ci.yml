@@ -1,0 +1,22 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        julia-version: [1.3.0]
+        julia-arch: [x64]
+    steps:
+      - uses: actions/checkout@v1.0.0
+      - uses: julia-actions/setup-julia@latest
+        with:
+          version: ${{ matrix.julia-version }}
+          arch: ${{ matrix.julia-arch }}
+      - name: Install dependencies
+        run: julia --color=yes -e 'using Pkg; Pkg.add(PackageSpec(url="https://github.com/colinxs/RegistryCI.jl.git", rev="master"));'
+      - name: RegistryCI.test()
+        run: julia --color=yes --project -e 'import RegistryCI; RegistryCI.test(registry_deps=["https://github.com/JuliaRegistries/General.git"])'
