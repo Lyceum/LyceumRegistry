@@ -10,6 +10,7 @@ repo = "https://github.com/Lyceum/LyceumRegistry.git"
 5c5e3362-9445-4819-9f95-51c44c51adeb = { name = "UniversalLogger", path = "U/UniversalLogger" }
 6917c76a-ac01-4302-a33e-8c456ab70f71 = { name = "LyceumAI", path = "L/LyceumAI" }
 93189219-7048-461c-94ec-443a161ed927 = { name = "MuJoCo", path = "M/MuJoCo" }
+9fb2ad31-cf15-46fe-bc4d-156e87332a6c = { name = "LyceumDocs", path = "L/LyceumDocs" }
 a1178c53-d320-4ec4-b60e-765dae4c6b59 = { name = "LyceumViz", path = "L/LyceumViz" }
 c0099f9a-b73b-11e9-1fa7-371fe55f427b = { name = "DevTools", path = "D/DevTools" }
 db31fed1-ca1e-4084-8a49-12fae1996a55 = { name = "LyceumBase", path = "L/LyceumBase" }
