@@ -9,3 +9,6 @@ Observables = "510215fc-4207-5dde-b226-833fc4488ee2"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 Shapes = "175de200-b73b-11e9-28b7-9b5b306cec37"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0.2-0"]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
