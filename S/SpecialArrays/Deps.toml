@@ -1,0 +1,11 @@
+[0]
+Adapt = "79e6a3ab-5dfb-504d-930d-738a2a938a0e"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+LyceumCore = "e5bd5517-2193-49f0-ba9c-d5a8508cb639"
+LyceumDevTools = "fd23256c-5a67-41c4-8f5a-c8cf5526e505"
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+Shapes = "175de200-b73b-11e9-28b7-9b5b306cec37"
+StaticNumbers = "c5e4b96a-f99f-5557-8ed2-dc63ef9b5131"
+UnsafeArrays = "c4a57d5a-5b31-53a6-b365-19f8c011fbd6"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
