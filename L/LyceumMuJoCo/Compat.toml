@@ -19,8 +19,13 @@ MuJoCo = "0.2"
 ["0.2.1-0"]
 MuJoCo = "0.3"
 
+["0.2.2"]
+Distributions = "0.22"
+
 ["0.2.2-0"]
 Distances = "0.8"
-Distributions = "0.22"
 DocStringExtensions = "0.8"
 StaticArrays = "0.12"
+
+["0.2.3-0"]
+Distributions = "0.23"
