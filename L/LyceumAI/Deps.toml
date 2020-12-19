@@ -24,4 +24,6 @@ Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
 ["0.2-0"]
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+
+["0.2-0.2.2"]
 LyceumMuJoCo = "48b9757e-04b8-4dbf-b6ed-75c13d9e4026"
